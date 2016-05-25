@@ -14,7 +14,7 @@
 		"material"
 	],
 	"author" : "BlueFish",
-	"author" : " <huhao@netposa.com> (HuHao <huhao@netposa.com>)"
+	"author" : " <huhao@netposa.com> (HuHao <huhao@netposa.com>)",
 	"license" : "MIT",
 	"devDependencies" : {
 		"grunt" : "^0.4.5",
